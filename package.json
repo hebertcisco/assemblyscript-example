@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+      "node": ">=16.13.0 <16",
+      "npm": "~8.1.0"
+  },
+  "bin": {
+    "fib": "./build/optimized.wasm"
+  },   
   "scripts": {
     "test": "node tests",
     "asbuild:untouched": "asc assembly/index.ts --target debug",
