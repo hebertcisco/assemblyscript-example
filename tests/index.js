@@ -1,4 +1,4 @@
 const assert = require("assert");
-const myModule = require("..");
-assert.strictEqual(myModule.add(1, 2), 3);
-console.log("ok");
+const Fibonacci = require("..");
+
+console.log(assert.strictEqual(Fibonacci.fib(7), 13))
