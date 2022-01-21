@@ -7,7 +7,7 @@
   "resolved" "https://registry.npmjs.org/@assemblyscript/loader/-/loader-0.19.22.tgz"
   "version" "0.19.22"
 
-"assemblyscript@^0.19.22":
+"assemblyscript@0.19.22":
   "integrity" "sha512-+Rclbx0+BI3qAe9fjc8XGbSUDaayTtjINnD19I4MmfpT2R43c9YTQERP36676shkPxb1fisDFZeSTL65Da8Q2g=="
   "resolved" "https://registry.npmjs.org/assemblyscript/-/assemblyscript-0.19.22.tgz"
   "version" "0.19.22"
